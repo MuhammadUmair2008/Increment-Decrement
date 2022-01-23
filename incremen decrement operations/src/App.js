@@ -14,7 +14,7 @@ const App = () => {
 
   return (
     <>
-      <div className="main-div">   kk
+      <div className="main-div">
       
 
       <div class="container">
